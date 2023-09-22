@@ -1,0 +1,121 @@
+.flexContainer{
+    display: flex;
+    background-color: black;
+
+}
+.navUno{
+    background-color: black;
+}
+
+.imagenUno{
+    width: 50px;
+    height: 50px;
+}
+
+.hUno{
+    color: white;
+    margin-left: 10px;
+}
+
+.hTres{
+    color: white;
+   
+
+}
+
+.divUno{
+    
+    display: flex;
+    justify-content: space-between;
+}
+
+.aUno{
+    color: white;
+    margin-left: 10px;
+}
+
+.aDos{
+    color: white;
+    margin-left: 60px;
+}
+
+.flexContainer2{
+    display: flex;
+    margin-top: 10px;
+    margin-left: 80px;
+
+}
+
+.divIzquierdo{
+   
+   
+
+   
+    
+   
+}
+
+
+.hDos{
+    color: white;
+    background-color: black;
+
+}
+
+.hTitulo{
+    background-color: red;
+    color: white;
+    
+
+}
+
+.divCuatroIzquierdo{
+
+   
+}
+
+.imagen{
+    width: 300px;
+    height: 250px;
+}
+
+.divCuatro{
+   
+    width:200px;
+    height:200px;
+    background-image: url('../recursos/imagenes/carousel1.jpg');
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center center;
+
+}
+
+.hTitulo2{
+    background-color: blue;
+    color: white;
+    
+
+}
+
+.flexContainer3{
+    background-color: black;
+}
+
+.hTitulo3{
+    background-color: #ab195a;
+    color: white;
+   
+    
+
+}
+
+.imagenOne{
+    width: 300px;
+    height: 300px;
+    margin-left: 20px;
+
+}
+
+.pUno{
+    color: white;
+}
